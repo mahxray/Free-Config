@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-09T13:21:26+00:00",
+  "updated_at": "2026-11-09T13:23:33+00:00",
   "unique_configs": 54084,
   "source_count": 28,
-  "successful_sources": 22,
+  "successful_sources": 23,
   "export_limited": false,
   "sources": [
     {
@@ -14,7 +14,7 @@
     },
     {
       "url": "https://github.com/0xRadikal/Free-v2ray-Configs",
-      "count": 4078,
+      "count": 4074,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/8f5c12afbdb61230.txt"
@@ -135,7 +135,7 @@
       "url": "https://github.com/MatinGhanbari/v2ray-configs",
       "count": 5587,
       "retained_previous": false,
-      "status": "partial",
+      "status": "ok",
       "file": "data/sources/7fff59ede3b6c4b9.txt"
     },
     {
