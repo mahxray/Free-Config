@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-11-13T08:00:15+00:00",
-  "unique_configs": 56755,
+  "updated_at": "2026-11-13T16:27:27+00:00",
+  "unique_configs": 56667,
   "source_count": 28,
   "successful_sources": 23,
   "export_limited": false,
   "sources": [
     {
       "url": "https://t.me/s/v2ray_free_config_iran",
-      "count": 9,
+      "count": 8,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/3e59f28c0d6f89f8.txt"
     },
     {
       "url": "https://github.com/0xRadikal/Free-v2ray-Configs",
-      "count": 4265,
+      "count": 4264,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/8f5c12afbdb61230.txt"
     },
     {
       "url": "https://github.com/itsyebekhe/PSG",
-      "count": 4422,
+      "count": 4480,
       "retained_previous": false,
       "status": "partial",
       "file": "data/sources/bb3ff307b29e958c.txt"
     },
     {
       "url": "https://github.com/Delta-Kronecker/V2ray-Config",
-      "count": 33825,
+      "count": 33843,
       "retained_previous": false,
       "status": "partial",
       "file": "data/sources/309f2024961cecd8.txt"
     },
     {
       "url": "https://github.com/mahsanet/MahsaFreeConfig",
-      "count": 16,
+      "count": 15,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/912a390c2157c524.txt"
     },
     {
       "url": "https://github.com/iampedii/whitedns-sub",
-      "count": 175,
+      "count": 184,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/4423cb061b5ba1ab.txt"
     },
     {
       "url": "https://github.com/4n0nymou3/multi-proxy-config-fetcher",
-      "count": 15,
+      "count": 14,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/0755d8864667d91e.txt"
     },
     {
       "url": "https://github.com/roosterkid/openproxylist",
-      "count": 25,
+      "count": 18,
       "retained_previous": false,
       "status": "partial",
       "file": "data/sources/d0c7441b7c3c9898.txt"
@@ -77,7 +77,7 @@
     },
     {
       "url": "https://github.com/zieng2/wl",
-      "count": 123,
+      "count": 112,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/d977156f765badae.txt"
@@ -105,14 +105,14 @@
     },
     {
       "url": "https://github.com/luxxuria/harvester",
-      "count": 185,
+      "count": 99,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/5da05bb27d224999.txt"
     },
     {
       "url": "https://github.com/barry-far/v2ray-config",
-      "count": 6987,
+      "count": 7028,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/261ff046a99ca8a8.txt"
@@ -133,14 +133,14 @@
     },
     {
       "url": "https://github.com/MatinGhanbari/v2ray-configs",
-      "count": 5726,
+      "count": 6042,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/7fff59ede3b6c4b9.txt"
     },
     {
       "url": "https://github.com/SoliSpirit/v2ray-configs",
-      "count": 13231,
+      "count": 13135,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/cd10ac7c14860a84.txt"
@@ -154,7 +154,7 @@
     },
     {
       "url": "https://github.com/Pawdroid/Free-servers",
-      "count": 295,
+      "count": 299,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/7f4190455dc742ae.txt"
@@ -168,21 +168,21 @@
     },
     {
       "url": "https://github.com/ermaozi/get_subscribe",
-      "count": 515,
+      "count": 525,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/f50eb0cc2d65670c.txt"
     },
     {
       "url": "https://github.com/peasoft/NoMoreWalls",
-      "count": 446,
+      "count": 433,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/816ada3b6a73fdbd.txt"
     },
     {
       "url": "https://github.com/HnCgs/HomayounConfigs",
-      "count": 62,
+      "count": 92,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/ab6bd46e34dac2b8.txt"
