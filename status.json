@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-18T14:00:35+00:00",
-  "unique_configs": 52521,
+  "updated_at": "2026-11-18T21:58:15+00:00",
+  "unique_configs": 53315,
   "source_count": 28,
-  "successful_sources": 23,
+  "successful_sources": 22,
   "export_limited": false,
   "sources": [
     {
@@ -14,14 +14,14 @@
     },
     {
       "url": "https://github.com/0xRadikal/Free-v2ray-Configs",
-      "count": 4461,
+      "count": 4469,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/8f5c12afbdb61230.txt"
     },
     {
       "url": "https://github.com/itsyebekhe/PSG",
-      "count": 4565,
+      "count": 4559,
       "retained_previous": false,
       "status": "partial",
       "file": "data/sources/bb3ff307b29e958c.txt"
@@ -42,7 +42,7 @@
     },
     {
       "url": "https://github.com/iampedii/whitedns-sub",
-      "count": 152,
+      "count": 111,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/4423cb061b5ba1ab.txt"
@@ -56,7 +56,7 @@
     },
     {
       "url": "https://github.com/roosterkid/openproxylist",
-      "count": 7,
+      "count": 11,
       "retained_previous": false,
       "status": "partial",
       "file": "data/sources/d0c7441b7c3c9898.txt"
@@ -77,7 +77,7 @@
     },
     {
       "url": "https://github.com/zieng2/wl",
-      "count": 121,
+      "count": 111,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/d977156f765badae.txt"
@@ -85,8 +85,8 @@
     {
       "url": "https://github.com/v2FreeHub/v2hub-configs",
       "count": 1279,
-      "retained_previous": false,
-      "status": "ok",
+      "retained_previous": true,
+      "status": "failed",
       "file": "data/sources/d2375d824afd5ba8.txt"
     },
     {
@@ -98,14 +98,14 @@
     },
     {
       "url": "https://github.com/Mahdi0024/ProxyCollector",
-      "count": 11,
+      "count": 86,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/f7c514197e6f6742.txt"
     },
     {
       "url": "https://github.com/luxxuria/harvester",
-      "count": 50,
+      "count": 65,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/5da05bb27d224999.txt"
@@ -133,14 +133,14 @@
     },
     {
       "url": "https://github.com/MatinGhanbari/v2ray-configs",
-      "count": 6074,
+      "count": 5778,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/7fff59ede3b6c4b9.txt"
     },
     {
       "url": "https://github.com/SoliSpirit/v2ray-configs",
-      "count": 13372,
+      "count": 13916,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/cd10ac7c14860a84.txt"
@@ -154,7 +154,7 @@
     },
     {
       "url": "https://github.com/Pawdroid/Free-servers",
-      "count": 294,
+      "count": 300,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/7f4190455dc742ae.txt"
@@ -175,7 +175,7 @@
     },
     {
       "url": "https://github.com/peasoft/NoMoreWalls",
-      "count": 388,
+      "count": 364,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/816ada3b6a73fdbd.txt"
@@ -196,7 +196,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt",
-      "count": 30,
+      "count": 21,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/6ac09e7ba30f0937.txt"
