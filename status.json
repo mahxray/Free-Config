@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-11-22T15:19:16+00:00",
-  "unique_configs": 53207,
+  "updated_at": "2026-11-22T21:46:53+00:00",
+  "unique_configs": 53717,
   "source_count": 28,
-  "successful_sources": 21,
+  "successful_sources": 22,
   "export_limited": false,
   "sources": [
     {
       "url": "https://t.me/s/v2ray_free_config_iran",
-      "count": 6,
+      "count": 9,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/3e59f28c0d6f89f8.txt"
     },
     {
       "url": "https://github.com/0xRadikal/Free-v2ray-Configs",
-      "count": 4587,
+      "count": 4598,
       "retained_previous": false,
-      "status": "partial",
+      "status": "ok",
       "file": "data/sources/8f5c12afbdb61230.txt"
     },
     {
@@ -35,28 +35,28 @@
     },
     {
       "url": "https://github.com/mahsanet/MahsaFreeConfig",
-      "count": 12,
+      "count": 11,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/912a390c2157c524.txt"
     },
     {
       "url": "https://github.com/iampedii/whitedns-sub",
-      "count": 144,
+      "count": 153,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/4423cb061b5ba1ab.txt"
     },
     {
       "url": "https://github.com/4n0nymou3/multi-proxy-config-fetcher",
-      "count": 44,
+      "count": 47,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/0755d8864667d91e.txt"
     },
     {
       "url": "https://github.com/roosterkid/openproxylist",
-      "count": 5,
+      "count": 4,
       "retained_previous": false,
       "status": "partial",
       "file": "data/sources/d0c7441b7c3c9898.txt"
@@ -77,7 +77,7 @@
     },
     {
       "url": "https://github.com/zieng2/wl",
-      "count": 207,
+      "count": 172,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/d977156f765badae.txt"
@@ -98,21 +98,21 @@
     },
     {
       "url": "https://github.com/Mahdi0024/ProxyCollector",
-      "count": 5,
+      "count": 317,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/f7c514197e6f6742.txt"
     },
     {
       "url": "https://github.com/luxxuria/harvester",
-      "count": 149,
+      "count": 31,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/5da05bb27d224999.txt"
     },
     {
       "url": "https://github.com/barry-far/v2ray-config",
-      "count": 6777,
+      "count": 6771,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/261ff046a99ca8a8.txt"
@@ -133,14 +133,14 @@
     },
     {
       "url": "https://github.com/MatinGhanbari/v2ray-configs",
-      "count": 6142,
+      "count": 5792,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/7fff59ede3b6c4b9.txt"
     },
     {
       "url": "https://github.com/SoliSpirit/v2ray-configs",
-      "count": 13853,
+      "count": 14369,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/cd10ac7c14860a84.txt"
@@ -154,14 +154,14 @@
     },
     {
       "url": "https://github.com/Pawdroid/Free-servers",
-      "count": 294,
+      "count": 305,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/7f4190455dc742ae.txt"
     },
     {
       "url": "https://github.com/Leon406/SubCrawler",
-      "count": 867,
+      "count": 855,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/c1135fd6df37b77a.txt"
@@ -175,7 +175,7 @@
     },
     {
       "url": "https://github.com/peasoft/NoMoreWalls",
-      "count": 303,
+      "count": 302,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/816ada3b6a73fdbd.txt"
@@ -196,7 +196,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt",
-      "count": 42,
+      "count": 30,
       "retained_previous": false,
       "status": "ok",
       "file": "data/sources/6ac09e7ba30f0937.txt"
